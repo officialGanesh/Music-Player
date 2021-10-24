@@ -10,8 +10,6 @@ Creating a music player with Html,CSS and Javascript.
 2️⃣ Go to next song
 3️⃣ Go to Previous Song
 
-#### Music and images are used from
-
 ##### Links
 [bradtraversy] (https://github.com/bradtraversy/vanillawebprojects/tree/master/music-player/music)
 [video_traversymedia] (https://youtu.be/QTHRWGn_sJw)
