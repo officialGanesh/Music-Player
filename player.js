@@ -1,1 +1,2 @@
-console.log("Music-player 🚀");
+let divImg = document.getElementById("divImg");
+console.log(divImg.getAttribute("src"))
