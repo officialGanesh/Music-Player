@@ -2,4 +2,52 @@
     padding: 0px;
     margin: 0px;
     text-align: center;
+
+}
+
+
+.container{
+    width: 55rem;
+    height: 100%;
+    margin-top: 10rem;
+}
+
+
+#title{
+    font-family: "Roboto Mono";
+    font-weight: bolder;
+    font-size: 3rem; 
+}
+
+#divImg{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    background-image: url("src/summer.jpg");
+    background-size: cover;
+
+    margin-left: 20rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+#song-name{
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5rem;
+    margin-right: 4rem;
+    margin-bottom: 5px;
+}
+
+#options{
+    margin-right: 3rem;
+
+}
+#play{
+    margin:5px;
+}
+
+
+
+.btn:hover{
+    background-color: rgb(48, 158, 231);
 }
